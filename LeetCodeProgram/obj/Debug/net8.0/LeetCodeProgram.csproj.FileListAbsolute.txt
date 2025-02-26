@@ -1,0 +1,14 @@
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\bin\Debug\net8.0\LeetCodeProgram.exe
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\bin\Debug\net8.0\LeetCodeProgram.deps.json
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\bin\Debug\net8.0\LeetCodeProgram.runtimeconfig.json
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\bin\Debug\net8.0\LeetCodeProgram.dll
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\bin\Debug\net8.0\LeetCodeProgram.pdb
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.AssemblyInfoInputs.cache
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.AssemblyInfo.cs
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.csproj.CoreCompileInputs.cache
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.dll
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\refint\LeetCodeProgram.dll
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.pdb
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.genruntimeconfig.cache
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\ref\LeetCodeProgram.dll
