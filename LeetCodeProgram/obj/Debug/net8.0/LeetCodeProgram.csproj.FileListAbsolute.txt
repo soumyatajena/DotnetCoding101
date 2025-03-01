@@ -12,3 +12,4 @@ C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\refint
 C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.pdb
 C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.genruntimeconfig.cache
 C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\ref\LeetCodeProgram.dll
+C:\Users\soumy\Source\Repos\soumyatajena\LeetCodeProgram\obj\Debug\net8.0\LeetCodeProgram.sourcelink.json
